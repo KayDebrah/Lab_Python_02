@@ -1,0 +1,27 @@
+Part 1 Written Exercises
+Question1.
+a. z=2
+b. z=No Display
+c. z=1
+d. z=7
+
+Question 2
+2.
+a. y=1
+b. y=1
+
+Question 3
+3.
+>>> 
+2
+4
+6
+8
+10
+>>>
+
+It loops through 10 times
+
+Question 4
+Doesnot produce any result because i is not initialized
+
